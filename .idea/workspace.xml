@@ -31,19 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="show.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/carts/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="127" selection-end="127" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20120515103357_add_quantity_to_line_items.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20120515103357_add_quantity_to_line_items.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="62" selection-start="130" selection-end="130" vertical-scroll-proportion="0.042372882">
+            <state line="6" column="2" selection-start="127" selection-end="127" vertical-scroll-proportion="0.12747875">
               <folding />
             </state>
           </provider>
@@ -771,11 +762,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Query Language Console.Default" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Production: depot" />
-      <item index="4" class="java.lang.String" itemvalue="Rails.Development: depot" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: depot" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: depot" />
+      <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -943,16 +934,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/carts/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120515103357_add_quantity_to_line_items.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="127" selection-end="127" vertical-scroll-proportion="-3.75">
+        <state line="2" column="62" selection-start="130" selection-end="130" vertical-scroll-proportion="0.042372882">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120515103357_add_quantity_to_line_items.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/carts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="62" selection-start="130" selection-end="130" vertical-scroll-proportion="0.042372882">
+        <state line="6" column="2" selection-start="127" selection-end="127" vertical-scroll-proportion="0.12747875">
           <folding />
         </state>
       </provider>
