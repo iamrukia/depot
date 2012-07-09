@@ -1,13 +1,19 @@
 <div class="cart_title">Your Cart</div>
-
 <table>
-  <%= render(cart.line_items)%>
+<!-- START_HIGHLIGHT -->
+  <%= render(cart.line_items) %>
+<!-- END_HIGHLIGHT -->
 
   <tr class="total_line">
     <td colspan="2">Total</td>
-    <td class="total_cell"><%= number_to_currency(@cart.total_price) %></td>
+<!-- START_HIGHLIGHT -->
+    <td class="total_cell"><%= number_to_currency(cart.total_price) %></td>
+<!-- END_HIGHLIGHT -->
   </tr>
+
 </table>
 
-
-<%= button_to 'Empty cart', cart, :method => :delete, :confirm => 'Are you sure?' %>
+<!-- START_HIGHLIGHT -->
+<%= button_to 'Empty cart', cart, method: :delete,
+#END_HIGHLIGHT
+    confirm: 'Are you sure?' %>
